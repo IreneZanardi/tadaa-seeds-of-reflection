@@ -11,7 +11,7 @@
  
 Through reflection, discussion, play, and creative activities, the toolkit helps parents and children explore stereotypes, representation, and the ways AI systems shape everyday understandings of gender.
  
-The toolkit was developed as part of **Tadaa**, a research project investigating how children and parents can critically engage with generative AI and its representations of people.
+The toolkit was developed as part of **[Tadaa](https://www.irenezanardi.com/tadaa/)**.
  
 ---
  
