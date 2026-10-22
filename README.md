@@ -1,6 +1,4 @@
 # Seeds of Reflection
-
-> Supporting meaningful family conversations about gender, stereotypes, and AI through reflection and play.
  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -88,13 +86,13 @@ If you use or adapt **Seeds of Reflection**, please cite:
  
 Or:
  
-> Zanardi, I., Dedò, S., Landoni, M. (2025). *Seeds of Reflection: a Cultural Probe for Family Conversations about gender, stereotypes, and GenAI* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zanardi, I., Dedò, S., Landoni, M. (2026). *Seeds of Reflection: a Cultural Probe for Family Conversations about gender, stereotypes, and GenAI* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
  
 ---
  
 ## Related Publication
  
-Zanardi, I., Dedò, S., Landoni, M. (2026) **AI at the Dinner Table: Parents on Reflection, Gender Biases and GenAI** https://dl.acm.org/doi/10.1145/3773077.3811879
+Zanardi, I., Dedò, S., Landoni, M. (2026). **AI at the Dinner Table: Parents on Reflection, Gender Biases and GenAI** https://dl.acm.org/doi/10.1145/3773077.3811879
  
 ---
  
