@@ -7,7 +7,7 @@
  
 ## About
  
-**Seeds of Reflection** is a cultural probe designed to support conversations within families about gender bias in AI-generated imagery.
+**Seeds of Reflection** is a cultural probe designed by Irene Zanardi and Shana Dedò to support conversations within families about gender bias in AI-generated imagery.
  
 Through reflection, discussion, play, and creative activities, the toolkit helps parents and children explore stereotypes, representation, and the ways AI systems shape everyday understandings of gender.
  
@@ -70,17 +70,8 @@ The activities can be completed over multiple sessions or adapted into a single 
  
 💡 There are no right or wrong answers. The toolkit is intended to spark conversations, encourage exploration, and support reflection.
  
----
  
-## Download
- 
-### GitHub
- 
-Download the latest version directly from this repository:
- 
-**Code → Download ZIP**
- 
-### Zenodo
+## Zenodo
  
 A citable archived version is also available on Zenodo:
  
@@ -93,10 +84,10 @@ A citable archived version is also available on Zenodo:
 If you use or adapt **Seeds of Reflection**, please cite:
  
 ```bibtex
-@misc{zanardi2025seedsofreflection,
+@misc{zanardi2026familytoolkit,
   author = {Zanardi, Irene},
-  title = {Seeds of Reflection: Supporting Meaningful Family Conversations About Gender, Stereotypes, and AI Through Reflection and Play},
-  year = {2025},
+  title = {Seeds of Reflection: a Cultural Probe for Family Conversations about gender, stereotypes, and GenAI},
+  year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.XXXXXXX}
 }
@@ -104,17 +95,13 @@ If you use or adapt **Seeds of Reflection**, please cite:
  
 Or:
  
-> Zanardi, I. (2025). *Seeds of Reflection: Supporting meaningful family conversations about gender, stereotypes, and AI through reflection and play* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zanardi, I., Dedò, S., Landoni, M. (2025). *Seeds of Reflection: a Cultural Probe for Family Conversations about gender, stereotypes, and GenAI* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
  
 ---
  
 ## Related Publication
  
-Zanardi, I., et al.
- 
-**Guardians Assemble: Teens' Imagination to Counter Algorithmic Villains**
- 
-https://dl.acm.org/doi/10.1145/3773077.3811879
+Zanardi, I., Dedò, S., Landoni, M. (2026) **AI at the Dinner Table: Parents on Reflection, Gender Biases and GenAI** https://dl.acm.org/doi/10.1145/3773077.3811879
  
 ---
  
@@ -133,4 +120,4 @@ Faculty of Informatics, Università della Svizzera italiana (USI)
  
 🌐 https://irenezanardi.com
  
-Feedback, adaptations, and stories about how you used the toolkit are always welcome.
+Feedback, adaptations, and stories about how you used the toolkit are more than welcome!
