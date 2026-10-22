@@ -1,5 +1,5 @@
-# Seeds of Reflection
- 
+<img width="1080" height="129" alt="Repos_Banners_seeds of reflectin" src="https://github.com/user-attachments/assets/bce690b8-d67f-429c-b066-1c4da1e8808a" />
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
  
