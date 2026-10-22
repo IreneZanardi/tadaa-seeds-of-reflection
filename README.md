@@ -70,16 +70,9 @@ The activities can be completed over multiple sessions or adapted into a single 
  
 💡 There are no right or wrong answers. The toolkit is intended to spark conversations, encourage exploration, and support reflection.
  
- 
-## Zenodo
- 
-A citable archived version is also available on Zenodo:
- 
-**DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
- 
 ---
- 
-## Citation
+
+## Zenodo
  
 If you use or adapt **Seeds of Reflection**, please cite:
  
