@@ -11,8 +11,6 @@ Through reflection, discussion, play, and creative activities, the toolkit helps
  
 The toolkit was developed as part of **[Tadaa](https://www.irenezanardi.com/tadaa/)**.
  
----
- 
 ## Who is it for?
  
 The toolkit is designed for **families with children** and can be used:
@@ -21,8 +19,6 @@ The toolkit is designed for **families with children** and can be used:
 - 🎓 In educational settings
 - 🧩 In workshops
 - 🔬 In research activities
- 
----
  
 ## What's Included?
  
@@ -44,18 +40,6 @@ The toolkit contains **10 activities** organised into two phases, together with 
 - 👨‍👩‍👧‍👦 **Family activities**  
   Five shared activities involving discussions, games, and creative exercises using AI-generated images.
  
----
- 
-## Repository Structure
- 
-```text
-seeds-of-reflection/
-├── instruction-leaflet.pdf
-├── parent-activities/
-└── family-activities/
-```
- 
----
  
 ## How to Use the Toolkit
  
@@ -68,7 +52,6 @@ The activities can be completed over multiple sessions or adapted into a single 
  
 💡 There are no right or wrong answers. The toolkit is intended to spark conversations, encourage exploration, and support reflection.
  
----
 
 ## Zenodo
  
@@ -88,13 +71,11 @@ Or:
  
 > Zanardi, I., Dedò, S. (2026). *Seeds of Reflection: a Cultural Probe* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
  
----
  
 ## Related Publication
  
 Zanardi, I., Dedò, S., Landoni, M. (2026). **AI at the Dinner Table: Parents on Reflection, Gender Biases and GenAI** https://dl.acm.org/doi/10.1145/3773077.3811879
  
----
  
 ## License
  
@@ -102,7 +83,6 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
  
 You are free to share and adapt the materials provided that appropriate credit is given.
  
----
  
 ## Contact
  
