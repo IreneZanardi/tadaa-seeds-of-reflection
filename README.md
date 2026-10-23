@@ -76,8 +76,8 @@ If you use or adapt **Seeds of Reflection**, please cite:
  
 ```bibtex
 @misc{zanardi2026familytoolkit,
-  author = {Zanardi, Irene},
-  title = {Seeds of Reflection: a Cultural Probe for Family Conversations about gender, stereotypes, and GenAI},
+  author = {Zanardi, Irene and Dedò, Shana},
+  title = {Seeds of Reflection: a Cultural Probe},
   year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.XXXXXXX}
@@ -86,7 +86,7 @@ If you use or adapt **Seeds of Reflection**, please cite:
  
 Or:
  
-> Zanardi, I., Dedò, S., Landoni, M. (2026). *Seeds of Reflection: a Cultural Probe for Family Conversations about gender, stereotypes, and GenAI* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zanardi, I., Dedò, S. (2026). *Seeds of Reflection: a Cultural Probe* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
  
 ---
  
