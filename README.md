@@ -1,6 +1,6 @@
 <img width="1080" height="129" alt="Repos_Banners_seeds of reflectin" src="https://github.com/user-attachments/assets/bce690b8-d67f-429c-b066-1c4da1e8808a" />
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1429791932.svg)](https://doi.org/10.5281/zenodo.23690927)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
  
 ## About
@@ -31,8 +31,8 @@ The toolkit contains **10 activities** organised into two phases, together with 
  
 ### Materials
  
-- 📖 **Instruction leaflet**  
-  Guidance for each activity and prompts to support reflection and discussion.
+- 📖 **Instruction booklet**  
+Step-by-step instructions for each activity, with questions to support reflection and discussion.
  
 - 📝 **Parent activities**  
   Five activities that invite caregivers to document experiences, assumptions, and reflections related to gender and technology.
@@ -40,16 +40,24 @@ The toolkit contains **10 activities** organised into two phases, together with 
 - 👨‍👩‍👧‍👦 **Family activities**  
   Five shared activities involving discussions, games, and creative exercises using AI-generated images.
  
+## What you need
+
+- **A printer**, to print and cut out the materials: cards, diary pages, identikit sheets, tiles, board and portrait canvases.
+  - Print the parents' diary pages twice, so that each parent has their own.
+  - Print the portrait canvas for activity 8 once for each family member.
+- **Access to a printer during the games**: activities 8 and 10 ask you to print the AI-generated portraits.
+- **A generative AI image tool.** The study used Microsoft Copilot, but any similar tool works.
+- **Stickers or drawing materials** for the identikits in activities 8 and 10. The stickers are not included in the printable materials, so you can draw instead or use stickers you've bought.
  
 ## How to Use the Toolkit
  
-1. Read the instruction leaflet.
+1. Print the materials and read the instructions booklet.
 2. Complete the five parent activities.
 3. Use the reflections generated during the parent activities as a starting point for the family activities.
 4. Continue with the shared discussions, games, and creative exercises.
  
-The activities can be completed over multiple sessions or adapted into a single workshop. Preparation is minimal, and the materials are designed to be flexible and adaptable to different family contexts.
- 
+The activities were designed to be done one per day, but they can be spread over more sessions or adapted into a workshop.
+
 💡 There are no right or wrong answers. The toolkit is intended to spark conversations, encourage exploration, and support reflection.
  
 
@@ -63,14 +71,13 @@ If you use or adapt **Seeds of Reflection**, please cite:
   title = {Seeds of Reflection: a Cultural Probe},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.23690928}
 }
 ```
  
 Or:
  
-> Zanardi, I., Dedò, S. (2026). *Seeds of Reflection: a Cultural Probe* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
- 
+> Zanardi, I., Dedò, S. (2026). *Seeds of Reflection: a Cultural Probe* (Version 1.0) [Toolkit]. Zenodo. https://doi.org/10.5281/zenodo.23690927 
  
 ## Related Publication
  
